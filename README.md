@@ -102,4 +102,4 @@ These inserts are **designed to fail** to demonstrate enforcement of database co
 2. Run the full script top to bottom.
 3. Tasks 2–6 each create and switch to their own database — no manual setup needed.
 
-> **Note:** `Assessment_3B_24s2_HomebaseDB` must already exist and be populated before running Tasks 3 and 4.
+> **Note:** relevant dummy databases are required for Tasks 3 and 4.
